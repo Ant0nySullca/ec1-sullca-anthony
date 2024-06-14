@@ -4,5 +4,6 @@ import lombok.Data;
 
 @Data
 public class EdadModel {
-
+    private Integer edad1;
+    private Integer edad2;
 }
